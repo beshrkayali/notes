@@ -23,17 +23,17 @@
 
 - Pathetic Compliance: Following the rules even though it's hurting.
 
-- Responsibilty: I Choose to help and not harm.
+- Responsibility: I Choose to help and not harm.
 - Wisdom: I know how my decisions might help or harm.
 - Freedom: I am able to make decisions that may help or harm.
 
-- Responsibilty and wisdom require freedom to develop. Analysis without freedom is nothing but marketing.
+- Responsibility and wisdom require freedom to develop. Analysis without freedom is nothing but marketing.
 
 
-- Explicit knowledge means it can be represented completely in the form of a string of bits: words, pictrures, even actions can be explicit. (Sottware explicit)
+- Explicit knowledge means it can be represented completely in the form of a string of bits: words, pictures, even actions can be explicit. (Software explicit)
 - Tacit knowledge means it is not manifested in a form that can be equated to a string of bits: it is unspoken, unwritten, unpictured.
 
-- Relational Tacit Knowldge is tacit by convenience.
+- Relational Tacit Knowledge is tacit by convenience.
 - Somatic Tacit knowledge is tacit in your body.
 - Collective Tacit Knowledge is tacit in your community. 
 
