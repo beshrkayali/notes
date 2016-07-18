@@ -15,3 +15,8 @@
 
 More:
 http://cryp.to/nixcon-2015-slides.pdf
+
+# It's not magic: descriptors exposed / Facundo Batista
+### 2016-07-16 12:00
+
+- https://docs.google.com/presentation/d/1cSSwG_kpfg7DsvytUkhs_NPzcFZfOJ4Cj49LTKkKELM/edit#slide=id.p
