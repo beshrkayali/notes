@@ -35,7 +35,10 @@ queues, synchronisation primitives.
 - loop.create_future() was added in 3.5.2
 
 
+# The Joy of Simulation for Fun and Profit
+### 2016-07-19 
 
+- http://koaning.io
 
 
 
