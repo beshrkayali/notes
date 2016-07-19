@@ -20,3 +20,30 @@ http://cryp.to/nixcon-2015-slides.pdf
 ### 2016-07-16 12:00
 
 - https://docs.google.com/presentation/d/1cSSwG_kpfg7DsvytUkhs_NPzcFZfOJ4Cj49LTKkKELM/edit#slide=id.p
+
+# High Performance Networking / Yury Selvanov
+### 2016-07-19 10:40
+
+- Coroutines are a king of generators, but not an instance of it. They share a lot of code.
+- AsyincIO is a toolbox for frameworks and protocols and not exactly a framework itself.
+- There are pros and cons for asyincio being part of the standard library.
+- Asyncio: standarized pluggable event loop / interfaces for protocols and transports / factories for servers and
+  connections; streams. / futures and tasks: callbacks + coroutines, timeouts, cancellaitons , etc. / Subprocess,
+queues, synchronisation primitives.
+- Use loop.sock methods for easy porting / prototyping stuff.
+- Use streams for implementing protocols with async/await / Use protocols and transports for Performance 
+- loop.create_future() was added in 3.5.2
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
